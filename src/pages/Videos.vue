@@ -24,9 +24,8 @@ export default {
             videos: [],
             videosMichel: [
                 { title: 'Driver 2', link: 'https://www.youtube.com/watch?v=Z8_HsT6q1c0&ab_channel=NubSaiBot', thumb:'https://muralgamer.com/wp-content/uploads/2013/10/driver-2-1.jpg'},
-                { title: 'Warzone 2', link: 'https://www.youtube.com/watch?v=Bc9-SzPccHs&ab_channel=NubSaiBot', thumb:'https://t2.tudocdn.net/645585?w=1920'},
+                { title: 'Warzone 2', link: 'https://youtu.be/nAXuNZsPVqw?si=W6ar5G9gZJ03BGClt', thumb:'https://t2.tudocdn.net/645585?w=1920'},
                 { title: 'Horizon Zero Dawn', link: 'https://www.youtube.com/watch?v=tnlO0FKHSsA&ab_channel=NubSaiBot', thumb:'https://cdn-ext.fanatical.com/production/product/1280x720/d5f7dc78-2c2d-4604-90ee-79ca108c01fc.jpeg'},
-
             ]
         }
     },
